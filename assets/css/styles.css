@@ -63,13 +63,11 @@ a {
 }
 
 a:hover {
-  text-decoration: none;
   color: var(--secondary-color);
 }
 
 body {
   font-family: var(--font-family);
 }
-
 
 
