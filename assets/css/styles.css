@@ -133,20 +133,17 @@ nav ul li {
 }
 
 .more-about {
-  background-color:var(--bg-color);
+  background-color:#828282;
   padding: 1rem 6rem;
-font-color:var(--primary-color);
 }
 
 .more-about h2 {
   margin-bottom: var(--bottom-margin);
   text-align: center;
-font-color:var(--primary-color);
 }
 
 .more-about p {
   line-height: var(--line-height);
   padding: 0.4rem;
-font-color:var(--primary-color);
 }
 
