@@ -141,12 +141,12 @@ font-color:var(--primary-color);
 .more-about h2 {
   margin-bottom: var(--bottom-margin);
   text-align: center;
-
+font-color:var(--primary-color);
 }
 
 .more-about p {
   line-height: var(--line-height);
   padding: 0.4rem;
-
+font-color:var(--primary-color);
 }
 
