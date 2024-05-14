@@ -133,7 +133,7 @@ nav ul li {
 }
 
 .more-about {
-  background-color:#828282;
+  background-color:var(--primary-shadow);
   padding: 1rem 6rem;
 }
 
